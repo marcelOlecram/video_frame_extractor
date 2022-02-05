@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "338537e8-265d-4ddb-924d-40af198f7c9f": {
+      "ProjectGuid": "338537e8-265d-4ddb-924d-40af198f7c9f",
+      "DisplayName": "video_frame_extractor",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
