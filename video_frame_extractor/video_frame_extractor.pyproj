@@ -12,7 +12,7 @@
     <Name>video_frame_extractor</Name>
     <RootNamespace>video_frame_extractor</RootNamespace>
     <LaunchProvider>Standard Python launcher</LaunchProvider>
-    <CommandLineArguments>"E:\Videos\video.mp4"</CommandLineArguments>
+    <CommandLineArguments>"E:\Videos\video.mp4" 1</CommandLineArguments>
     <EnableNativeCodeDebugging>False</EnableNativeCodeDebugging>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
